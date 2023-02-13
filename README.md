@@ -2,11 +2,11 @@
 
 This is the assignment submitted as per requirements set by [This google doc](https://docs.google.com/document/d/1FUuxzyLVNWiqJqodZ3A08UskeBxE-PShB4VdrIldPgA/edit)
 
-#Temp
+# Temp
 
 This is the main working project, i.e,, solution to the assignment.
 
-#Boilerplate
+# Boilerplate
 This is the actual assignment which was asked to be created in the GOOGLE DOC.
 
 To complete the assignment, student has to follow the given steps:

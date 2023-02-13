@@ -12,6 +12,7 @@ This is the actual assignment which was asked to be created in the GOOGLE DOC.
 To complete the assignment, student has to follow the given steps:
 1. Install node and npm 
 2. Download the boilerplate and do `npm init`
+3. Start your react app using `npm start`
 3. After creating a working react app user needs to install cypress by executing following commands,
 4. `npm install cypress --save-dev`
 5. `cypress install`
@@ -21,3 +22,5 @@ To complete the assignment, student has to follow the given steps:
 8. Click start E2E testing.
 9. Click on App.cy.js in the E2E specs list.
 10. The tests will run now, if Everything is correct, it will show passed.
+
+Make sure to run the React app on port 3000, or you can set your port in cypress.config.js , and enter the port in baseUrl.
